@@ -6,3 +6,6 @@ In addition, I will send you my git repo where I uploaded the code, so you can c
 Incidentally, if you compare both code basis, you can see that the vue.js is a little leaner than its react equivalent - which is why I chose this as my preferred framework. That said, I would be happy to learn a new framework should it be required, but I wanted to note the capabilities of Vue. 
 
 As I could not push to the hackerrank repo anymore, I had to create my own repo, which is why the commit times will appear off. However, you can compare these files to the ones that were (hopefully) submitted via the Hackerrank IDE and see that this was not worked on after the challenge was over. 
+
+## How to use it
+The vue.js framework is implemented via CDN. You can simply download the files in the same directory, and double click the HTML file to open. The website should work as is. 
