@@ -1,4 +1,4 @@
-#IMPORTANT NOTE
+# IMPORTANT NOTE
 
 As indicated on my application, I am not familiar with REACT. While I consider it my great strength to learn quickly, the alotted time was not sufficient to grasp how diferent react components interact. 
 Instead, I decided to recreate the basic app in vue.js I tried to submit the files as time expired, so I am not sure if they made it through. 
