@@ -1,0 +1,61 @@
+html, body{
+    margin: 0;
+    height: 100%;
+}
+
+p{
+    margin: 0;
+    line-height: 5vh;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: white;
+}
+
+.header{
+    background-color: darkslategray;
+    height: 5vh;
+
+}
+
+.main{
+    margin-top: 4vh;
+    text-align: center;
+}
+
+form > *{
+    display: inline-block;
+    height: 3vh;
+    line-height: 3vh;
+}
+
+form > div{
+    margin-left: 2vw;
+    width: 100px;
+    background: limegreen;
+    height: 3vh;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    box-shadow: 2px 2px 5px greenyellow;
+}
+
+.list{
+    width: 100%;
+    text-align: center;
+}
+
+.list > ul{
+    width: 100%;
+    text-align: center;
+    list-style-type: none;
+    margin-top: 5vh;
+}
+
+li{
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 2vh;
+    font-family: sans-serif;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
